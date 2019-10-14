@@ -1,6 +1,6 @@
 # Lista3_EricoBandeira_AndreFreitas
 
-Repositório voltado para a segunda entrega da matéria de Projeto de Algorítimo dos seguintes alunos:
+Repositório voltado para a terceira entrega da matéria de Projeto de Algorítimo dos seguintes alunos:
 
 | Nome                        | Matrícula  | GitHub                                      |
 | --------------------------- | ---------- | ------------------------------------------- |
