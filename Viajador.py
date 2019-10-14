@@ -68,7 +68,6 @@ class Graph(object):
 
     @classmethod
     def load(cls):
-        """Return a populated Graph object with real airports and routes."""
 
         world = cls()
         for flight in get_flights():
